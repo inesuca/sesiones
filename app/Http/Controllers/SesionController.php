@@ -29,8 +29,8 @@ class SesionController extends Controller
       'password' => $request->password,
       'name' => $request->name
     ];
-
-    $alumnos = [$alumno];
+    session()->push('alumnos',$alumno);
+    //$alumnos = [$alumno];
 
     //session()->put('alumno',$alumno); 
 

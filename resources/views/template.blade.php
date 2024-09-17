@@ -17,7 +17,7 @@
             {{-- <a class="navbar-brand" href="#">
                 <img src="/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="30" height="24">
             </a> --}}
-          <a class="navbar-brand" href="#">Navbar</a>
+          <a class="navbar-brand" href="/sesiones/index">Ines de la Cruz G.</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -27,7 +27,7 @@
                 <a class="nav-link active" aria-current="page" href="#">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Sesiones</a>
+                <a class="nav-link" href="/sesiones/index">Sesiones</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">Cookies</a>
